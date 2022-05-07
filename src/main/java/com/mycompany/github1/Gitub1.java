@@ -15,7 +15,7 @@ public class Gitub1{
     static void klk(){
         for (int i = 0; i < 10; i+=2) {
             if (i % 2 == 0){
-            System.out.print (" Par "+i);
+            System.out.print (" ParISINO "+i);
             }
         }
     }
